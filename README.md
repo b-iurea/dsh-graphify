@@ -73,6 +73,9 @@ client.js         client half: Graphify right-sidebar tab (HTML + SVG views)
 locale/en.json    bundle metadata (en)
 locale/it.json    bundle metadata (it)
 icon.svg          bundle icon
+README.md         this file
+LICENSE           MIT
+.gitignore        dev cruft (node_modules, graphify-out, .ghtmp, .ghconfig)
 ```
 
 ## License
