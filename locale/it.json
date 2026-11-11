@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Graphify",
+    "description": "Strumenti per l'agente che usano la CLI graphify (grafo di conoscenza del codice), più una vista interattiva del grafo nella barra laterale."
+  }
+}
